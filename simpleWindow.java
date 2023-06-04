@@ -27,7 +27,7 @@ public class simpleWindow {
             @Override
             public void keyReleased(KeyEvent e) {
                 if (e.getKeyCode() == KeyEvent.VK_SPACE) {
-                    JOptionPane.showMessageDialog(frame, "Мое имя");
+                    JOptionPane.showMessageDialog(frame, "Богдан");
                 }
             }
         });
